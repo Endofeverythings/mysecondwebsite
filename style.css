@@ -1,0 +1,32 @@
+.container{
+    background-color: rgb(148, 11, 11);
+    
+    }
+    div{
+    height: 100px;
+    width: 100px;}
+
+    #first{
+        background-color: aqua;
+        
+    }
+    #second{
+        background-color: blueviolet;
+        position: relative;
+        left: 100px;
+    }
+    #third{
+        background-color: chartreuse;
+        position:relative;
+        left: 200px;
+    }
+    #fourth{
+        background-color: crimson;
+        position: relative;
+        left: 300px;
+    }
+    #fifth{
+        background-color: cyan;
+        position: relative;
+        left: 400px;
+    }
